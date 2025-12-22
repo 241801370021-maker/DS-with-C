@@ -1,3 +1,4 @@
 #output of class_basics.java
 
-<img width="381" height="350" alt="image" src="https://github.com/user-attachments/assets/5da41b6d-787e-44f6-8fa0-43a75b5be7ff" />
+<img width="374" height="268" alt="image" src="https://github.com/user-attachments/assets/9860e79a-7186-460d-9ddb-ce04fd9cd81e" />
+
