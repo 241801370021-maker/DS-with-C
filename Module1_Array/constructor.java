@@ -12,7 +12,7 @@ class student {
 public class Main {
     public static void main(String[] args) {
 
-        student b = new student("ram", 27);
+        student b = new student("shabeer", 19);
         System.out.println(b.name);
         System.out.println(b.age);
     }
