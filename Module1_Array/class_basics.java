@@ -13,8 +13,8 @@ class Main {
         //UDT
         //int a=4;
         student a=new student();
-        a.name="Ram";
-        a.age=30;
+        a.name="shabeer";
+        a.age=19;
         System.out.println(a.name);
         System.out.println(a.age);
         a.getName();
